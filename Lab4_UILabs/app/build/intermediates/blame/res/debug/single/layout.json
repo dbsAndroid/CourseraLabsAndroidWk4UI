@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/iveagh/Documents/DBS/09AndroidDarren2017.08.02/AndroidCodeDBS/Lab4_UILabs/app/build/intermediates/res/merged/debug/layout/add_todo.xml",
+        "source": "/home/iveagh/Documents/DBS/09AndroidDarren2017.08.02/AndroidCodeDBS/Lab4_UILabs/app/src/main/res/layout/add_todo.xml"
+    },
+    {
+        "merged": "/home/iveagh/Documents/DBS/09AndroidDarren2017.08.02/AndroidCodeDBS/Lab4_UILabs/app/build/intermediates/res/merged/debug/layout/todo_item.xml",
+        "source": "/home/iveagh/Documents/DBS/09AndroidDarren2017.08.02/AndroidCodeDBS/Lab4_UILabs/app/src/main/res/layout/todo_item.xml"
+    },
+    {
+        "merged": "/home/iveagh/Documents/DBS/09AndroidDarren2017.08.02/AndroidCodeDBS/Lab4_UILabs/app/build/intermediates/res/merged/debug/layout/footer_view.xml",
+        "source": "/home/iveagh/Documents/DBS/09AndroidDarren2017.08.02/AndroidCodeDBS/Lab4_UILabs/app/src/main/res/layout/footer_view.xml"
+    }
+]
